@@ -1,6 +1,5 @@
 {
-  "type": "FeatureCollection",
-  "features": [
+  "events": [
     {
       "type": "Feature",
       "properties": {
